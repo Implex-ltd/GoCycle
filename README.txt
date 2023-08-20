@@ -3,7 +3,7 @@
 Simply iterate through a list.
 
 ﹕Import
-go get https://github.com/0xF7A4C6/GoCycle
+go get https://github.com/Implex-ltd/GoCycle
 
 ﹕Functions
   - Next()
